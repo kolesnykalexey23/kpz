@@ -1,0 +1,14 @@
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\bin\Debug\net8.0\ConsoleDiya.exe
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\bin\Debug\net8.0\ConsoleDiya.deps.json
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\bin\Debug\net8.0\ConsoleDiya.runtimeconfig.json
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\bin\Debug\net8.0\ConsoleDiya.dll
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\bin\Debug\net8.0\ConsoleDiya.pdb
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\obj\Debug\net8.0\ConsoleDiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\obj\Debug\net8.0\ConsoleDiya.AssemblyInfoInputs.cache
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\obj\Debug\net8.0\ConsoleDiya.AssemblyInfo.cs
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\obj\Debug\net8.0\ConsoleDiya.csproj.CoreCompileInputs.cache
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\obj\Debug\net8.0\ConsoleDiya.dll
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\obj\Debug\net8.0\refint\ConsoleDiya.dll
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\obj\Debug\net8.0\ConsoleDiya.pdb
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\obj\Debug\net8.0\ConsoleDiya.genruntimeconfig.cache
+C:\University\2Semestr\MYkpz\ConsoleDiya\ConsoleDiya\obj\Debug\net8.0\ref\ConsoleDiya.dll
